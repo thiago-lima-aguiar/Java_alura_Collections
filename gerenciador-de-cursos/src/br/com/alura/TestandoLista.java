@@ -39,7 +39,8 @@ public class TestandoLista {
 		Collections.sort(aulas);
 		System.out.println(aulas);
 		
-		//TESTE COMMIT
+		//TESTE COMMIT n
+		//teste commit no eclipse
 		
 	}
 }
